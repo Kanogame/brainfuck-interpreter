@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bfintr"
+name = "bf_interpreter"
 version = "0.1.0"
 description = ""
 authors = ["kanogame <wasdqert1222@gmail.com>"]
